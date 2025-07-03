@@ -1,0 +1,2 @@
+# NEXCARD
+NexCard is a smart digital card platform that helps professionals create, share, and manage interactive business cards effortlessly. Users can design personalized cards based on their profession and share them instantly using QR codes or NFC tap.  NexCard also includes a built-in wallet that stores all the cards a user has scanned, making it easy to search, organize, and connect with contacts. Each card holds essential information like phone numbers, emails, and LinkedIn profiles — enabling instant communication and networking.
